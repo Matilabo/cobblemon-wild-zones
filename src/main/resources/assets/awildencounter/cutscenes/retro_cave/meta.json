@@ -1,0 +1,14 @@
+{
+  "id": "retro_cave",
+  "fps": 12,
+  "width": 480,
+  "height": 270,
+  "transparent": true,
+  "smooth": false,
+  "durationMs": 1083,
+  "battleAtMs": 917,
+  "coverAtMs": 750,
+  "coverUntilMs": 1083,
+  "fadeOutMs": 250,
+  "frames": ["000.png|000.a.png", "000.png|001.a.png", "000.png|002.a.png", "000.png|003.a.png", "000.png|004.a.png", "000.png|005.a.png", "000.png|006.a.png", "000.png|007.a.png", "000.png|008.a.png", "000.png|009.a.png", "000.png|010.a.png", "000.png", "000.png"]
+}

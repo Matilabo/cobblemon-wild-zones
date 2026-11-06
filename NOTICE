@@ -1,0 +1,76 @@
+A Wild Cobblemon Appeared! - third party notices
+=====================================
+
+Copyright (c) Matilabo.
+
+The A Wild Cobblemon Appeared! source code and the original assets listed below are licensed under the
+Mozilla Public License, Version 2.0. See LICENSE for the full text.
+
+This NOTICE records material that is NOT covered by that licence. The MPL-2.0 grant applies
+only to the parts of this project that Matilabo owns. Nothing in LICENSE grants any rights in
+third party material, and no such rights are claimed here.
+
+
+1. Covered by the MPL-2.0
+-------------------------
+
+  - All Java source under src/.
+  - The "Retro" transition masks (assets/awildencounter/cutscenes/retro_*) and the default
+    transition (assets/awildencounter/cutscenes/default).
+  - tools/import_icons.py and the icon index it writes (assets/awildencounter/icons/index.json).
+  - The mod icon (assets/awildencounter/icon.png) and the title banner
+    (assets/awildencounter/textures/gui/title.png). The icon depicts a Pokemon; see 1b for what
+    that means for the Pokemon design itself.
+
+  The encounter animations are shared with Cobblelocke, by the same author.
+
+
+1b. Cobblemon icons - MPL-2.0, by their own authors
+----------------------------------------------------
+
+  Affected files:
+
+    assets/awildencounter/textures/icons/
+
+  These icons are taken unchanged from the E19 Cobblemon Minimap Icons resource pack, which its
+  authors distribute under the Mozilla Public License, Version 2.0 (the same licence as this
+  project; see LICENSE). Copyright in the icons stays with the pack's authors; Matilabo claims
+  none. Only the icons that match a species or form in Cobblemon are included, under their
+  original file names.
+
+  The icons depict Pokemon. Pokemon and its characters are the property of Nintendo, Creatures
+  Inc. and GAME FREAK inc. The pack's licence covers its authors' own work only, and no rights in
+  the Pokemon designs are granted or claimed here.
+
+
+2. Minecraft textures - NOT covered by the MPL-2.0
+--------------------------------------------------
+
+  Affected files:
+
+    assets/awildencounter/cutscenes/mc_grass/
+    assets/awildencounter/cutscenes/mc_grass_flowers/
+    assets/awildencounter/cutscenes/mc_water/
+    assets/awildencounter/cutscenes/mc_cave/
+    assets/awildencounter/cutscenes/mc_nether_crimson/
+    assets/awildencounter/cutscenes/mc_nether_warped/
+    assets/awildencounter/cutscenes/mc_end/
+
+  The "Cobblelocke Minecraft" encounter animations are composed from Minecraft's own block and
+  entity textures. The composition, animation, timing and effects are original work by
+  Matilabo; the textures themselves are not, and are excluded from the Mozilla Public License
+  granted for the rest of this project.
+
+  Minecraft is the property of Mojang Studios and Microsoft Corporation. A Wild Cobblemon Appeared! is an
+  unofficial mod, used within Minecraft as Mojang's asset usage guidelines for mods allow, and
+  is not produced, endorsed, sponsored by, or affiliated with them.
+
+  No Pokemon game footage, models or audio are included in this project.
+
+
+3. Dependencies
+---------------
+
+  A Wild Cobblemon Appeared! depends on, but does not bundle or redistribute, Cobblemon, the Fabric Loader
+  and Fabric API. The optional Cobblemon Repel integration calls that mod at runtime and bundles
+  none of it.

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "awildencounter",
+  "version": "${version}",
+  "name": "A Wild Cobblemon Appeared!",
+  "description": "Wild zones for Cobblemon: mark areas with a Bone, and walking through them plays an encounter animation and starts a battle with a wild Cobblemon. Can also play the animation before every wild battle, or once in every new biome.",
+  "authors": ["Matilabo"],
+  "license": "MPL-2.0",
+  "icon": "assets/awildencounter/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.awildencounter.AWildEncounter"],
+    "client": ["com.awildencounter.client.AWildEncounterClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "cobblemon": ">=1.8.0"
+  },
+  "suggests": {
+    "cobblemonrepel": "*",
+    "cobblelocke": "*"
+  }
+}

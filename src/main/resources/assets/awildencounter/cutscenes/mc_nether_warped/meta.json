@@ -1,0 +1,14 @@
+{
+  "id": "mc_nether_warped",
+  "fps": 24,
+  "width": 480,
+  "height": 270,
+  "transparent": true,
+  "smooth": false,
+  "durationMs": 2458,
+  "battleAtMs": 1958,
+  "coverAtMs": 375,
+  "coverUntilMs": 2458,
+  "fadeOutMs": 280,
+  "frames": ["000.jpg|000.a.png", "001.jpg|001.a.png", "002.jpg|002.a.png", "003.jpg|003.a.png", "004.jpg|004.a.png", "005.jpg|005.a.png", "006.jpg|006.a.png", "007.jpg|007.a.png", "008.jpg|008.a.png", "009.jpg|009.a.png", "010.jpg|010.a.png", "011.jpg", "012.jpg", "013.jpg", "014.jpg", "015.jpg", "016.jpg", "017.jpg", "018.jpg", "019.jpg", "020.jpg", "021.jpg", "022.jpg", "023.jpg", "024.jpg", "025.jpg", "026.jpg", "027.jpg", "028.jpg", "029.jpg", "030.jpg", "031.jpg", "032.jpg", "033.jpg", "034.jpg", "035.jpg", "036.jpg", "037.jpg", "038.jpg", "039.jpg", "040.jpg", "041.jpg", "042.jpg", "043.jpg", "043.jpg", "044.jpg", "044.jpg", "045.jpg", "045.jpg", "046.jpg", "046.jpg", "047.jpg", "047.jpg", "048.jpg", "048.jpg", "049.jpg", "049.jpg", "050.jpg", "050.jpg"]
+}

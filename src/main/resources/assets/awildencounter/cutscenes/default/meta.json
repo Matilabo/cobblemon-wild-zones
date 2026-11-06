@@ -1,0 +1,14 @@
+{
+  "id": "default",
+  "fps": 24,
+  "width": 480,
+  "height": 270,
+  "transparent": true,
+  "smooth": true,
+  "durationMs": 2417,
+  "battleAtMs": 1542,
+  "coverAtMs": 1417,
+  "coverUntilMs": 1750,
+  "fadeOutMs": 0,
+  "frames": ["009.png|009.a.png", "010.png|010.a.png", "011.png|011.a.png", "012.png|012.a.png", "013.png|013.a.png", "014.png|014.a.png", "015.png|015.a.png", "016.png|016.a.png", "017.png|017.a.png", "018.png|018.a.png", "019.jpg|019.a.png", "019.jpg|019.a.png", "021.jpg|021.a.png", "021.jpg|021.a.png", "023.jpg|023.a.png", "023.jpg|024.a.png", "025.jpg|025.a.png", "025.jpg|025.a.png", "027.jpg|027.a.png", "028.jpg|028.a.png", "028.jpg|029.a.png", "030.jpg|030.a.png", "031.jpg|031.a.png", "032.jpg|032.a.png", "033.jpg|033.a.png", "034.jpg|034.a.png", "035.jpg|035.a.png", "036.jpg|036.a.png", "036.jpg|036.a.png", "038.jpg|038.a.png", "039.jpg|039.a.png", "040.jpg|040.a.png", "041.jpg|041.a.png", "042.jpg|042.a.png", "043.png", "043.png", "043.png", "043.png", "043.png", "043.png", "043.png", "043.png", "051.png|051.a.png", "051.png|051.a.png", "053.png|053.a.png", "054.png|054.a.png", "055.png|055.a.png", "056.png|056.a.png", "056.png|056.a.png", "058.png|058.a.png", "058.png|059.a.png", "058.png|060.a.png", "058.png|059.a.png", "058.png|060.a.png", "058.png|060.a.png", "058.png|059.a.png", "058.png|060.a.png", "058.png|059.a.png"]
+}

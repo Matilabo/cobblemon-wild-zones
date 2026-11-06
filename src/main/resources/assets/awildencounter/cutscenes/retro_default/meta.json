@@ -1,0 +1,14 @@
+{
+  "id": "retro_default",
+  "fps": 12,
+  "width": 480,
+  "height": 270,
+  "transparent": true,
+  "smooth": false,
+  "durationMs": 2167,
+  "battleAtMs": 1833,
+  "coverAtMs": 1833,
+  "coverUntilMs": 2167,
+  "fadeOutMs": 250,
+  "frames": ["000.png|000.a.png", "000.png|000.a.png", "000.png|002.a.png", "000.png|003.a.png", "000.png|004.a.png", "000.png|005.a.png", "000.png|006.a.png", "000.png|007.a.png", "000.png|008.a.png", "000.png|009.a.png", "000.png|010.a.png", "000.png|011.a.png", "000.png|012.a.png", "000.png|013.a.png", "000.png|014.a.png", "000.png|015.a.png", "000.png|016.a.png", "000.png|017.a.png", "000.png|018.a.png", "000.png|019.a.png", "000.png|020.a.png", "000.png|021.a.png", "000.png", "000.png", "000.png", "000.png"]
+}
